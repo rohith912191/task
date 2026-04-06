@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finance Dashboard UI
 
 A polished React dashboard built for clarity, real-world finance monitoring, and role-aware behavior.
@@ -43,3 +44,6 @@ npm run dev
 - This dashboard is intentionally static and frontend-driven.
 - Dark mode preference and selected role are persisted in local storage.
 - Designed for readability, simplicity, and a clean modern UI.
+=======
+# task
+>>>>>>> c7d799e033c1412a6a859348506ab114b6a12882
