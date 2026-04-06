@@ -32,55 +32,6 @@ A professional React-based finance dashboard with modern state management, data 
 
 **Aggannagqri Rohith Reddy**
 
-- **Email:** rohith912191@gmail.com
-- **Phone:** +91 91219 6107
-- **Portfolio:** [Your Portfolio](#)
-- **LinkedIn:** [Your LinkedIn](#)
-- **GitHub:** [rohith912191](https://github.com/rohith912191)
-- **LeetCode:** [Your LeetCode](#)
-- **CodeChef:** [Your CodeChef](#)
-
-### Career Objective
-Computer Science undergraduate with strong foundations in Python, Data Structures & Algorithms, and web development. Experienced in building practical applications using machine learning and backend development. Seeking a software development opportunity to apply problem-solving skills and contribute to scalable solutions.
-
-### Education
-- **Anurag University, Hyderabad** — Bachelor of Technology in Computer Science Engineering (Sep 2022 – May 2026)
-  - CGPA: 7.92 / 10
-- **Narayana Junior College, Hyderabad** — Board of Intermediate Marks: 929 / 1000 (May 2022)
-- **Pace School, Hyderabad** — SSC GPA: 9.3 / 10 (May 2020)
-
-### Technical Skills
-- Programming Languages: Python, Java, C
-- Core Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOP)
-- Web Technologies: HTML, CSS, JavaScript, Django, Flask
-- Databases: MySQL
-- Data Analysis & Visualization: Pandas, NumPy, Matplotlib
-- Tools: Git, Streamlit, VS Code, MySQL Workbench
-
-### Internship
-**Instructo** — Full Stack Web Development Intern (Jan 2025 – Apr 2025)
-- Developed a full-stack e-commerce web application using Python and MySQL that allows users to browse products, manage shopping carts, and place orders through an interactive interface.
-- Implemented secure user authentication and product catalog management, enabling customers to register, log in, and explore product listings efficiently.
-- Designed and integrated a MySQL database schema to store product details, customer information, and order transactions for efficient data management.
-
-### Projects
-**AI Resume Analyzer** — Python, NLP, Streamlit
-- Developed an AI-powered web application using Streamlit to analyze resumes and extract key details such as skills, education, and experience.
-- Implemented Natural Language Processing (NLP) techniques and custom resume parsing to identify candidate skillsets and classify job domains.
-- Built a recommendation system suggesting relevant skills, courses, and career paths based on extracted resume data.
-- Integrated PDF parsing, data visualization, and feedback system with optional MySQL database support for storing user analytics.
-
-**Brain Stroke Prediction System** — Python, Flask, Machine Learning
-- Designed a web-based healthcare application using Flask to predict stroke risk based on user health parameters.
-- Developed and integrated a machine learning model (saved using Joblib) to perform real-time stroke prediction.
-- Implemented user authentication system with secure login, signup, and profile management using SQLite database.
-- Calculated BMI, age, and health indicators dynamically and processed structured input data for accurate predictions.
-
-### Certifications
-- Salesforce Certified Agentforce Specialist — Salesforce
-- IBM Cloud Computing Fundamentals — IBM
-- TCS-iON Career Edge – Young Professional — TCS
-
 ## 📦 Installation
 
 1. Clone the repository:
