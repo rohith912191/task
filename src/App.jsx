@@ -135,7 +135,7 @@ function App() {
 
     const monthlyNet = transactions.reduce((acc, item) => {
       const month = new Date(item.date).toLocaleString('en-US', { month: 'short' });
-      acc[month] = (acc[month] || 0) + item.amount * (item.type === 'expense' ? 1 : -1);
+      acc[month] = (acc[month] || 0) + item.amount * (item.type === 'income' ? 1 : -1);
       return acc;
     }, {});
 
