@@ -117,18 +117,23 @@ function App() {
   }, [transactions]);
 
   const trendPoints = useMemo(() => {
-    const uniqueDates = Array.from(new Set(transactions.map((item) => item.date))).sort(
-      (a, b) => new Date(a).getTime() - new Date(b).getTime()
+    const sortedTransactions = [...transactions].sort(
+      (a, b) => new Date(a.date).getTime() - new Date(b.date).getTime()
     );
 
+    const uniqueDates = Array.from(new Set(sortedTransactions.map((item) => item.date)));
+    let runningBalance = 0;
+
     return uniqueDates.slice(-6).map((date) => {
-      const value = transactions
+      const dailyChange = sortedTransactions
         .filter((item) => item.date === date)
         .reduce((sum, item) => sum + (item.type === 'income' ? item.amount : -item.amount), 0);
 
+      runningBalance += dailyChange;
+
       return {
         label: new Date(date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }),
-        value
+        value: runningBalance
       };
     });
   }, [transactions]);
