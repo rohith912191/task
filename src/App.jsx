@@ -292,8 +292,8 @@ function App() {
           <a href="mailto:rohith912191@gmail.com">rohith912191@gmail.com</a>
           <a href="tel:+919121916107">+91 91219 6107</a>
           <a href="https://github.com/rohith912191" target="_blank" rel="noreferrer">GitHub</a>
-          <a href="#">Portfolio</a>
-          <a href="#">LinkedIn</a>
+          <a href="https://portfolio1-smoky-omega.vercel.app/" target="_blank" rel="noreferrer">Portfolio</a>
+          <a href="https://www.linkedin.com/in/rohith-reddy91/" target="_blank" rel="noreferrer">LinkedIn</a>
         </div>
       </footer>
     </div>

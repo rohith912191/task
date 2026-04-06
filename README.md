@@ -32,6 +32,9 @@ A professional React-based finance dashboard with modern state management, data 
 
 **Aggannagqri Rohith Reddy**
 
+- **Portfolio:** [portfolio1-smoky-omega.vercel.app](https://portfolio1-smoky-omega.vercel.app/)
+- **LinkedIn:** [rohith-reddy91](https://www.linkedin.com/in/rohith-reddy91/)
+
 ## 📦 Installation
 
 1. Clone the repository:
